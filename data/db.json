@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "member": "Eleftheria"
+    },
+    {
+      "id": 2,
+      "member": "Gennadios"
+    },
+    {
+      "id": 3,
+      "member": "Lysimachos"
+    },
+    {
+      "member": "Dung Phi",
+      "id": 4
+    },
+    {
+      "member": "Claire",
+      "id": 5
+    }
+  ]
+}
